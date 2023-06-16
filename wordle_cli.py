@@ -1,6 +1,6 @@
 import random
 
-wordArray = ["cocks", "balls","vagin","bewbs"]
+wordArray = ["resin","shade","haunt","orate","alert"]
 currentWord = wordArray[int(random.randint(0,(len(wordArray)-1)))]
 userGuessArray = []
 userGuessLetterArray = []
